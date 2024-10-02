@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629298893757",
+    "project_id": "thrift-pantry-20ed8",
+    "storage_bucket": "thrift-pantry-20ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629298893757:android:fef14383440d63bc22b8d4",
+        "android_client_info": {
+          "package_name": "com.example.thrift_pantry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePsFhU6jZ9JCbTy0EKqrtPh9W2a0MB24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
